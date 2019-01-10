@@ -13,5 +13,4 @@ public interface VetService {
 	Set<Vet> findAll();
 	
 	
-
 }
